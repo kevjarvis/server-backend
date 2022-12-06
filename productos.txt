@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Telescope Novel Hacking",
+    "price": 2000,
+    "thumbnail": "http://urlproduct.com/image.png",
+    "id": 1
+  },
+  {
+    "title": "Telescope 2 Novice",
+    "price": 1220,
+    "thumbnail": "http://urlproduct.com/telescope2.png",
+    "id": 2
+  },
+  {
+    "title": "Telescope 3 Norris",
+    "price": 3400,
+    "thumbnail": "http://urlproduct.com/telescope3.png",
+    "id": 3
+  }
+]
